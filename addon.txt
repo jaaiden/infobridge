@@ -1,0 +1,12 @@
+"AddonInfo"
+{
+	"name"				"InfoBridge"
+	"version"			"0.0.1"
+	"up_date"			"1/8/2016"
+	"author_name"			"digitaL"
+	"author_email"			""
+	"author_url"			"https://infobridge.cf"
+	"info"				"Bridges player data between servers; such as playtime, money, health, etc."
+}
+
+
